@@ -3,3 +3,7 @@
 ## 标题2
 
 > 注释
+
+```
+print hello world
+```
